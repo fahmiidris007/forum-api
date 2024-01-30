@@ -1,3 +1,3 @@
 Forum API
 
-Submission MBDE Dicoding. Applying Clean Architechture and TDD, CI/CD Pipeline, Security and Scability
+Submission MBDE (Menjadi Backend Developer Expert) Dicoding. Applying Clean Architechture and TDD, CI/CD Pipeline, Security and Scability
